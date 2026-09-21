@@ -41,9 +41,9 @@ Computer Engineer with a Master’s Degree in Artificial Intelligence, specializ
 ### 💼 Professional Experience
 
 #### **AI Engineer (Internship) — Accenture** *(Feb 2026 – Jul 2026)*
-* Designed and deployed autonomous **Multi-Agent Systems (MAS)** using **Python**, **LangChain**, and **LangGraph** to automate complex enterprise decision processes.
-* Containerized scalable GenAI microservices within an **Azure CLI** and **Docker** ecosystem, optimizing inference latency and resource usage.
-* Monitored Kubernetes cluster reliability and runtime logs using **OpenLens**, validated RESTful APIs via Postman, and managed persistent enterprise storage.
+* **Multi-AgentSystems & LLMs**: Designed and implemented autonomous AI architectures and tooling leveraging **Large Language Models(LLMs)**, **Python**, and orchestration frameworks (**LangChain**/**LangGraph**) to automate strategic enterprise workflows and drive **business impact** for **Repsol**.
+* Deployed and managed scalable GenAI and **RAG** microservices within an **Azure CLI** and **Docker** ecosystem, focusing on **workflow optimization** and resource efficiency.
+* Ensured system reliability by monitoring logs via **OpenLens**, **testing APIs**, **evaluating LLM outputs**, and collaborating with **cross-functional stakeholders** to align technical deliverables with project goals.
 
 #### **Data Analyst (Internship) — PwC (PricewaterhouseCoopers)** *(Jan 2025 – May 2025)*
 * Automated audit and compliance data pipelines within the Governance, Risk & Compliance (GRC) practice.
